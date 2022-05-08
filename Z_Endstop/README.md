@@ -3,6 +3,8 @@ https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_
 
 It's designed to mount to the inside edge of the VZ bed frame so the print head can reach the switch to probe the nozzle. Replace the normal M4x10MM screw in the Voron Sexbolt kit with a M4x20 cap screw. This compensates for the added length of the switch housing.
 
+
+
 Videos:      
 https://youtu.be/00g7d2wuFAI
 
@@ -61,3 +63,6 @@ samples_result: median
 sample_retract_dist: 5.0    
 samples_tolerance: 0.01    
 samples_tolerance_retries: 3   
+![In frame](https://i.imgur.com/3l6xIa5.jpg)
+
+![Housing](https://i.imgur.com/5mSWhGg.jpg)
