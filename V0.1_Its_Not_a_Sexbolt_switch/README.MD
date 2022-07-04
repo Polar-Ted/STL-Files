@@ -14,7 +14,7 @@
  2x M3 square or hex nuts      
  220 and 400 grit sandpaper for deburing the fender washer and sizing the standoff post if needed.      
  
- I like the Deepfriedhero [endstop super kit for the switch and bearings.](https://deepfriedhero.in/products/voron-2-4-sexbolt-z-endstop-super-kit?_pos=4&_sid=4148419ee&_ss=r) if you are in the USA      
+ I like the Deepfriedhero [endstop super kit for the switch and bearings](https://deepfriedhero.in/products/voron-2-4-sexbolt-z-endstop-super-kit?_pos=4&_sid=4148419ee&_ss=r) if you are in the USA      
  
  You will want to deburr the stamped fender washer.. I sanded it flat on a smooth surface with the 220 then bolted it to the standoff post, chucked it in my drill and polished the edges with 400 grit. You may also like to chamfer the ID so the M3 flat cap screw sits flush.  No impact to performance if you don't but you won't have to worry about the klicky switch body hitting it instead if you set up auto Z offset.           
  
