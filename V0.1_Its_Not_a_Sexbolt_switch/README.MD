@@ -16,9 +16,9 @@
  
  I like the Deepfriedhero [endstop super kit for the switch and bearings](https://deepfriedhero.in/products/voron-2-4-sexbolt-z-endstop-super-kit?_pos=4&_sid=4148419ee&_ss=r) if you are in the USA      
  
- You will want to deburr the stamped fender washer.. I sanded it flat on a smooth surface with the 220 then bolted it to the standoff post, chucked it in my drill and polished the edges with 400 grit. You may also like to chamfer the ID so the M3 flat cap screw sits flush.  No impact to performance if you don't but you won't have to worry about the klicky switch body hitting it instead if you set up auto Z offset.           
+ You will want to deburr the stamped fender washer.. I sanded it flat on a smooth surface with the 220 then bolted it to the standoff post, chucked it in my drill and polished the edges with 400 grit. You may also like to chamfer the ID so the M3 flat cap screw sits flush.  No impact to performance if you don't but you won't have to worry about the klicky switch body hitting the screw head instead of the washer when running [Self Calibrating Z Offset](https://github.com/protoloft/klipper_z_calibration).           
  
- out a 20 pack of M3 standoff posts I bought form Amazon only 3 were the proper 5mm OD. you may need to chuck the post lightly in a drill and sand with 400 grit till the post slides smoothly in the sleeve bearing. 
+Out a 20 pack of M3 standoff posts I bought from Amazon only 3 were the proper 5mm OD. you may need to chuck the post lightly in a drill and sand with 400 grit till the post slides smoothly in the sleeve bearing. 
  
  **Assembly notes**
  It builds like a standard Voron endstop switch except you have to assemble the plunger.
@@ -32,4 +32,17 @@
  
  
  
+ 
 ![Design Image](./NotaSexboltimage.png)
+
+Links
+
+[Protoloft- Self Calibrating Z Offset](https://github.com/protoloft/klipper_z_calibration)      
+
+[Zruncho3d - Zeroclick Z probe.](https://github.com/zruncho3d/ZeroClick)      
+
+[ChipCE - Klipper mesh on print area only](https://gist.github.com/ChipCE/95fdbd3c2f3a064397f9610f915f7d02)      
+
+[HeartK1213 - Sexbolt Endstop](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_SexBolt_ZEndstop)      
+
+
