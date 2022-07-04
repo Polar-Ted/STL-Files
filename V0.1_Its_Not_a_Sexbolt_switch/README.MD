@@ -30,19 +30,20 @@ Out a 20 pack of M3 standoff posts I bought from Amazon only 3 were the proper 5
  
  I use this switch in combination with [Zruncho3d's  Zeroclick Z probe.](https://github.com/zruncho3d/ZeroClick)      
  
+ **Links**
+
+[Protoloft- Self Calibrating Z Offset](https://github.com/protoloft/klipper_z_calibration)      
+
+[Zruncho3d - Zeroclick Z probe for V0.](https://github.com/zruncho3d/ZeroClick)      
+
+[ChipCE - Klipper mesh on print area only](https://gist.github.com/ChipCE/95fdbd3c2f3a064397f9610f915f7d02)      
+
+[HeartK1213 - Sexbolt Endstop](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_SexBolt_ZEndstop)      
+
  
  
  
 ![Design Image](./NotaSexboltimage.png)
 
-Links
-
-[Protoloft- Self Calibrating Z Offset](https://github.com/protoloft/klipper_z_calibration)      
-
-[Zruncho3d - Zeroclick Z probe.](https://github.com/zruncho3d/ZeroClick)      
-
-[ChipCE - Klipper mesh on print area only](https://gist.github.com/ChipCE/95fdbd3c2f3a064397f9610f915f7d02)      
-
-[HeartK1213 - Sexbolt Endstop](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_SexBolt_ZEndstop)      
 
 
