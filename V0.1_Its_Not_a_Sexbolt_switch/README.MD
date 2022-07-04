@@ -18,7 +18,15 @@
  
  You will want to deburr the stamped fender washer.. I sanded it flat on a smooth surface with the 220 then bolted it to the standoff post, chucked it in my drill and polished the edges with 400 grit. You may also like to chamfer the ID so the M3 flat cap screw sits flush.  No impact to performance if you don't but you won't have to worry about the klicky switch body hitting it instead if you set up auto Z offset.           
  
- out a 20 pack of M3 standoff posts I bought form Amazon only 3 were the proper 5mm OD. you may need to chuck the post in a drill and lightly sand with 400 grit it till it slides smoothly in the sleeve bearing. 
+ out a 20 pack of M3 standoff posts I bought form Amazon only 3 were the proper 5mm OD. you may need to chuck the post lightly in a drill and sand with 400 grit till the post slides smoothly in the sleeve bearing. 
+ 
+ **Assembly notes**
+ It builds like a standard Voron endstop switch except you have to assemble the plunger.
+ Put the M3 Flat cap screw through the Fender washer.. stack on a M3 washer or two to keep the standoff from falling through the hole in the fender washer and tighten the screw into the M3 standoff post. I chucked the post lightly in my drill and used it as a vice to hold the post while I tightend the screw. 
+ 
+ Use the 2nd M3 flat cap screw  on the inside of the switch to click the microswitch. 
+ 
+ I slid my magnetic bed plate over a few mm to give the plunger more room. Adjust it as low as possible while still clicking the switch reliably. You want it to be low enough to clear the MiniAfterburner fan ducts. 
  
  I use this switch in combination with [Zruncho3d's  Zeroclick Z probe.](https://github.com/zruncho3d/ZeroClick)      
  
