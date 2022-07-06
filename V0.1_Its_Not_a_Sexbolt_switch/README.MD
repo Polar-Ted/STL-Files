@@ -43,7 +43,7 @@ Out a 20 pack of M3 standoff posts I bought from Amazon only 3 were the proper 5
  
  
  
-![Design Image](./NotaSexboltimage.png)
+![Design Image](./Images/NotaSexboltimage.png)
 
 
 
