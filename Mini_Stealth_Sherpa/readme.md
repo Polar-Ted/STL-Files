@@ -1,2 +1,2 @@
 
-Don't use this.. hartks is better
+hartk Mini Stealth Sherpa with a Zero Click mount. 
