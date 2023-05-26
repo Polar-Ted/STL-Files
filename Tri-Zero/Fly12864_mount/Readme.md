@@ -3,7 +3,8 @@
 ![Tri-Zero Fly Mini12864 display mount](https://github.com/Polar-Ted/STL-Files/blob/main/Tri-Zero/Fly12864_mount/img/Tri-Zero_Mini12864_front.jpg)
 
 ## BOM      
- - 4 - M3x10mm screws      
+ - 4 - M3x10mm screws ( Attach the display to the skirt)
+ - 2 - M3x8mm button head (Attach to Frame)     
  - 4 - M3x4x5mm threaded heat inserts      
  - 1- [Fly Mini12864 Display](https://www.aliexpress.us/item/3256803392961881.html)      
  - Optional - [FYSETC STM32-Mini12864](https://www.fysetc.com/products/fysetc-stm32-mini12864-voron-mini12864-module-for-voron-2-4-mini12864-lcd-display-screen)      
