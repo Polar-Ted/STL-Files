@@ -12,5 +12,5 @@ Fits spools up to 70mm wide.
  - 2 * M4 8mm button head screws
  - 2 * M4 hammer T nuts
  - 2 * M5 or M6 screw 10mm or longer to hold end caps
-
+ - 4 * 76mm lengths of 4mm OD PTFE tubing
  - Print 2 end caps and one top piece. 
