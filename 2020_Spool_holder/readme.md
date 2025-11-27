@@ -14,3 +14,4 @@ Fits spools up to 70mm wide.
  - 2 * M5 or M6 screw 10mm or longer to hold end caps
  - 4 * 76mm lengths of 4mm OD PTFE tubing
  - Print 2 end caps and one top piece. 
+![Spool Holders](![Spool Holders](/2020_Spool_holder/img/PXL_20251127_010216415.jpg)
